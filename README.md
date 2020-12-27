@@ -1,0 +1,1 @@
+# Convert-decimal-value-to-int-for-MODBUS-data
